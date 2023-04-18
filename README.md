@@ -12,5 +12,5 @@ Navigate to the ```quotes_spider.py``` file and insert the desired URL in the ``
 
 Then run
 ```
-python3 main.py
+$ python3 main.py
 ```
